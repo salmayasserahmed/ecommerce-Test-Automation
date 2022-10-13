@@ -1,0 +1,17 @@
+Notes:
+1-Any copy-paste was from same project for copying repetitive lines
+2-You must register a user first to run tests
+3- most features are written in a way so user can replace test data easily
+4- all screenshots are in evidence folder
+
+Assumptions:
+1-Reset feature:
+	user forgets password at login
+
+2- Logged in user means:
+	Logout button is visible --> authenticated 
+
+3- log in check only in last scenario (check out)
+4- at checkout, cart is always not empty
+5- the add to cart, wishlist, compare list assertions require only "added to ... successfully"
+ 
